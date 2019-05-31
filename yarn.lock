@@ -933,10 +933,10 @@
     "@types/istanbul-lib-coverage" "*"
     "@types/istanbul-lib-report" "*"
 
-"@types/node@^11.12.1":
-  version "11.13.12"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-11.13.12.tgz#4caaf874d5eaf26e5723d30c95f6d40cac2c49bb"
-  integrity sha512-HMD9cEGP+k2Y1Lk8LL6Cux9UlxkWst1wJdoMHnvH3XlVecHdjffW829/YzWd/ptFkIWtcbqQDrTkz5PY6pN+0w==
+"@types/node@^12.0.4":
+  version "12.0.4"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.0.4.tgz#46832183115c904410c275e34cf9403992999c32"
+  integrity sha512-j8YL2C0fXq7IONwl/Ud5Kt0PeXw22zGERt+HSSnwbKOJVsAGkEz3sFCYwaF9IOuoG1HOtE0vKCj6sXF7Q0+Vaw==
 
 "@types/stack-utils@^1.0.1":
   version "1.0.1"
@@ -6376,12 +6376,12 @@ teeny-request@^3.11.3:
     node-fetch "^2.2.0"
     uuid "^3.3.2"
 
-telegraf@^3.25.0:
-  version "3.29.0"
-  resolved "https://registry.yarnpkg.com/telegraf/-/telegraf-3.29.0.tgz#0655d02b9a2d72d53ff20787947aa10ad54a747c"
-  integrity sha512-zvlY2Wnls7D/sJDTD21tORR9S1Exe6NThUCvYhdhCoKx7+OOZlplSd4yhSZbRI4bViuFdyhxCE+IuWS/ZmAElg==
+telegraf@^3.30.0:
+  version "3.30.0"
+  resolved "https://registry.yarnpkg.com/telegraf/-/telegraf-3.30.0.tgz#32d8d89c197a8689ca8035aa333741fecd3e3d67"
+  integrity sha512-3FGOVyfdgdXKIEDQwPg05UBCk0B6q7YabiXuUcEJIwCLPT+CwZKFYcE7OexE6qYQ5i4IARZ+hv/Uu3C8fgtohA==
   dependencies:
-    "@types/node" "^11.12.1"
+    "@types/node" "^12.0.4"
     debug "^4.0.1"
     node-fetch "^2.2.0"
     sandwich-stream "^2.0.1"
